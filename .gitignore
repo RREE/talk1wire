@@ -1,8 +1,24 @@
 # Object file
 *.o
+*.a
+*.lexch
+
 
 # Ada Library Information
 *.ali
+*.bexch
+b~*.ads
+b~*.adb
+b__*.ads
+b__*.adb
+
+components_4_24.lst
+components_4_24.tar
+
+*.exe
+*~
+*.bak
+
 
 # =========================
 # Operating System Files

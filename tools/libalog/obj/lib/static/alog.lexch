@@ -1,0 +1,35 @@
+[LIBRARY PATH]
+F:\Devel\Ada\talk1wire\tools\libalog\lib\static\libalog.a
+[OBJECT FILES]
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog.o
+20170602093016
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-transforms.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-transforms-casing.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-tasked_logger.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-protected_containers.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-policy_db.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-policy_db-types.o
+20170602093018
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-maps.o
+20170602093020
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-log_request.o
+20170602093020
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-logger.o
+20170602093020
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-helpers.o
+20170602093020
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-facilities.o
+20170602093022
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-facilities-file_descriptor.o
+20170602093022
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-exceptions.o
+20170602093022
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-controlled_map.o
+20170602093022
+F:\Devel\Ada\talk1wire\tools\libalog\obj\lib\static\alog-active_logger.o
+20170602093022
