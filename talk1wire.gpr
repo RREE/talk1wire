@@ -8,7 +8,7 @@ project Talk1wire is
    for Exec_Dir   use ".";
    for Source_Dirs use (".");
    
-   for Main use ("main.adb", "test_loglevel");
+   for Main use ("main.adb");
    
    package Compiler is
       for Default_Switches ("Ada") use Common.Compiler_Switches;

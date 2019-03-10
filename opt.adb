@@ -24,7 +24,6 @@ package body Opt is
    --  Verbosity_Level : aliased Verbosity_Level_Range  := Standard;
 
    Cfg : Command_Line_Configuration;
-   Stop : exception;
 
    procedure Set_Options
    is

@@ -14,4 +14,6 @@ begin
       Opt.Show_Greeting;
    end if;
    Commands.Act;
+exception
+	when Opt.Stop => null;
 end Main;

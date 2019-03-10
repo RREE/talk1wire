@@ -28,4 +28,5 @@ package Opt is
 
    procedure Set_Options;
    procedure Show_Greeting;
+   Stop : exception;
 end Opt;
